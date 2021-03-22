@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T11:22:24.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.9" etag="nE3E5OIHs0YeVewxMIoC" type="github"><diagram id="6E2JY-XtimwLayMRqfMQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-22T16:15:25.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="HBGnPbd-c6VV0SO349HM" version="14.4.9" type="github">
+  <diagram id="6E2JY-XtimwLayMRqfMQ" name="第 1 页">
+    <mxGraphModel dx="1066" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UsL_qy9030k3RQYE9VW0-10" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UsL_qy9030k3RQYE9VW0-11" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#333333&quot;&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;韩&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;西&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;瓜&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="325.94" width="30" height="84.06" as="geometry" />
+        </mxCell>
+        <mxCell id="UsL_qy9030k3RQYE9VW0-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;分布式锁-防超卖的N+1个坑！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;sketch=1;fontFamily=Comic Sans MS;shadow=1;strokeColor=#000000;fillColor=#ffffff;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="355" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
