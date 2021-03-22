@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T09:48:02.675Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.9" etag="kBr5WDRuD0KTfOsqbD9C" type="github"><diagram id="8ZTIeMQ5RiyjxswMkLOl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-22T10:05:53.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="z4svW0MnCsbyqnX2x87I" version="14.4.9" type="github">
+  <diagram id="8ZTIeMQ5RiyjxswMkLOl" name="第 1 页">
+    <mxGraphModel dx="1302" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="akBa_zia7UMdvYz5hsV4-28" value="常用锁" style="shape=table;html=1;whiteSpace=wrap;startSize=50;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;sketch=1;strokeColor=#36393d;fillColor=#BCD3EB;" vertex="1" parent="1">
+          <mxGeometry x="159" y="220" width="541" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-28">
+          <mxGeometry y="50" width="541" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-30" value="锁|信号量" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#36393d;sketch=1;fillColor=#BCD3EB;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-29">
+          <mxGeometry width="180" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-31" value="实现" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#36393d;sketch=1;fillColor=#BCD3EB;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-29">
+          <mxGeometry x="180" width="181" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-32" value="特点" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#36393d;sketch=1;fillColor=#BCD3EB;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-29">
+          <mxGeometry x="361" width="180" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-28">
+          <mxGeometry y="75" width="541" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-34" value="&lt;span style=&quot;color: rgb(1, 1, 1); font-size: 14px; text-align: left;&quot;&gt;Synchronized&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;fontStyle=0;labelBorderColor=none;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-33">
+          <mxGeometry width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-35" value="&lt;span style=&quot;color: rgb(1, 1, 1); font-size: 14px; text-align: left;&quot;&gt;Monitor&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;fontStyle=0;labelBorderColor=none;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-33">
+          <mxGeometry x="180" width="181" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-36" value="JVM级&lt;br&gt;锁逐步升级" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-33">
+          <mxGeometry x="361" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-28">
+          <mxGeometry y="140" width="541" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-38" value="&lt;span style=&quot;color: rgb(1, 1, 1); font-size: 14px; text-align: left;&quot;&gt;ReetrantLock&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;fontStyle=0;labelBorderColor=none;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-37">
+          <mxGeometry width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-39" value="&lt;span style=&quot;color: rgb(1, 1, 1); font-size: 14px; text-align: left;&quot;&gt;AQS+CAS&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;fontStyle=0;labelBorderColor=none;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-37">
+          <mxGeometry x="180" width="181" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-40" value="API级&lt;br&gt;可中断、公平非公平、读写锁" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-37">
+          <mxGeometry x="361" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-41" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-28">
+          <mxGeometry y="205" width="541" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-42" value="&lt;span style=&quot;color: rgb(1, 1, 1); font-size: 14px; text-align: left;&quot;&gt;Semaphore&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;fontStyle=0;labelBorderColor=none;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-41">
+          <mxGeometry width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-43" value="&lt;span style=&quot;color: rgb(1, 1, 1); font-size: 14px; text-align: left;&quot;&gt;AQS+CA&lt;/span&gt;&lt;span style=&quot;color: rgb(1, 1, 1); font-size: 14px; text-align: left;&quot;&gt;S&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=14;fontStyle=0;labelBorderColor=none;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-41">
+          <mxGeometry x="180" width="181" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="akBa_zia7UMdvYz5hsV4-44" value="API级别&lt;br&gt;信号量保证并发访问数量可控" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="akBa_zia7UMdvYz5hsV4-41">
+          <mxGeometry x="361" width="180" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
