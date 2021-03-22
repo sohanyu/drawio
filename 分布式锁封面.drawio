@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T10:49:24.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" version="14.4.9" etag="-QJl7CV_OvFSxgzHoMbj" type="github"><diagram id="iQoeHq6ysr695WcWzGdl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-22T16:15:43.366Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="G-aI_ypaxEhVaDlOlYX5" version="14.4.9" type="github">
+  <diagram id="iQoeHq6ysr695WcWzGdl" name="第 1 页">
+    <mxGraphModel dx="1066" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-12" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="550" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-13" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#003366&quot;&gt;&lt;i&gt;&lt;b&gt;韩&lt;br&gt;&lt;br&gt;西&lt;br&gt;&lt;br&gt;瓜&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="563.75" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-14" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;分布式锁-防超卖的N+1个坑！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;sketch=1;fontFamily=Comic Sans MS;strokeColor=#004C99;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="596.25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-24" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;sketch=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="204" y="400" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-25" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;i&gt;&lt;b&gt;韩&lt;br&gt;&lt;br&gt;西&lt;br&gt;&lt;br&gt;瓜&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;sketch=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="224" y="413.75" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-26" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;分布式锁-防超卖的N+1个坑！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;sketch=1;fontFamily=Comic Sans MS;strokeColor=#666666;shadow=1;fillColor=#f5f5f5;fontColor=#333333;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="446.25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-27" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="204" y="705" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-28" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#333333&quot;&gt;&lt;i&gt;&lt;b&gt;韩&lt;br&gt;&lt;br&gt;西&lt;br&gt;&lt;br&gt;瓜&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="224" y="718.75" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-29" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;分布式锁-防超卖的N+1个坑！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;sketch=1;fontFamily=Comic Sans MS;shadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="324" y="751.25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-30" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="250" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-31" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#333333&quot;&gt;&lt;i&gt;&lt;b&gt;韩&lt;br&gt;&lt;br&gt;西&lt;br&gt;&lt;br&gt;瓜&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="224" y="263.75" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-32" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;分布式锁-防超卖的N+1个坑！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;sketch=1;fontFamily=Comic Sans MS;shadow=1;strokeColor=#000000;fillColor=#ffffff;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="296.25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-33" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="100" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-34" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#333333&quot;&gt;&lt;i&gt;&lt;b&gt;韩&lt;br&gt;&lt;br&gt;西&lt;br&gt;&lt;br&gt;瓜&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="224" y="113.75" width="50" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-35" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;分布式锁-防超卖的N+1个坑！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;sketch=1;fontFamily=Comic Sans MS;shadow=1;strokeColor=#000000;fillColor=#ffffff;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="146.25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-36" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="850" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-37" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#333333&quot;&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;韩&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;西&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;瓜&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="865.94" width="30" height="84.06" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-38" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;分布式锁-防超卖的N+1个坑！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;sketch=1;fontFamily=Comic Sans MS;shadow=1;strokeColor=#000000;fillColor=#ffffff;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="895" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-39" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;sketch=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="900" width="286" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-40" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;i&gt;&lt;b&gt;韩&lt;br&gt;&lt;br&gt;西&lt;br&gt;&lt;br&gt;瓜&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;sketch=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="89" y="916.25" width="40" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CYqxlOaCv45y4wwsq0lf-41" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;分布式锁-防超卖的N+1个坑！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;sketch=1;fontFamily=Comic Sans MS;strokeColor=#666666;shadow=1;fillColor=#f5f5f5;fontColor=#333333;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="141" y="945" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
